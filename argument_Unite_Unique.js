@@ -18,7 +18,8 @@ function uniteUnique(arr) {
     }
   }
 
-  console.log(finalArray);
+  console.log(finalArray)
+  ;
 }
 
 uniteUnique([1, 2, 3], [5, 2, 1, 4], [2, 1], [6, 7, 8]);
